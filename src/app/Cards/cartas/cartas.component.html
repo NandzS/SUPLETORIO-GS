@@ -1,0 +1,7 @@
+
+<div class="image-cards">
+  <div class="image-card" *ngFor="let image of images" (mouseover)="zoomIn($event)" (mouseout)="zoomOut($event)">
+    <img [src]="image.url" alt="Imagen">
+  </div>
+</div>
+

@@ -1,0 +1,33 @@
+.btn_counter{
+    width: 150px;
+    height: 150px;
+    padding: 0.5rem 1rem;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(26, 138, 202);
+    border-radius: 15px;
+}
+ 
+.btn_change{
+    width: 150px;
+    height: 150px;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(26, 138, 202);
+    
+}
+
+.btn_Reset{
+    border-radius: 15px;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(26, 138, 202);
+    width: 1000px;
+    height: 50px;
+}
+
+.container_counter{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    margin-bottom: 1px; 
+}

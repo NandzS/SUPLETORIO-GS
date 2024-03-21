@@ -1,0 +1,22 @@
+.image-cards {
+  display: flex;
+  justify-content: center;
+}
+
+.image-card {
+  width: 500px; 
+  height: 500px; 
+  margin: 10px;
+  transition: transform 0.2s;
+  overflow: hidden; 
+}
+
+.image-card img { 
+  width: 100%; 
+  height: auto; 
+}
+
+.image-card:hover {
+  transform: scale(1.2);
+  cursor: pointer; 
+}
