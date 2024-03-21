@@ -1,5 +1,8 @@
 # SUPLETORIO
 
+LINK DEL VIDEO DEL PROYECTO:
+https://drive.google.com/file/d/1OR62t5qgN_kLwtqoiCBnKRDLFJaHyYTq/view?usp=sharing
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
 
 ## Development server
